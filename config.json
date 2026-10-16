@@ -1,0 +1,14 @@
+{
+  "data_path": "data/missioni_2013_2026_ALL.csv",
+  "uo_denominazioni_path": "data/uo_denominazioni.json",
+  "train_end": "2023-12",
+  "test_end": "2026-08",
+  "lookback": 12,
+  "seed": 42,
+  "batch_size": 64,
+  "epochs": 40,
+  "hidden_dim": 16,
+  "learning_rate": 0.001,
+  "device": "auto"
+}
+
